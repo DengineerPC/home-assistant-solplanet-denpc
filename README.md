@@ -15,7 +15,7 @@ This information can be used into Home Assistant Energy Dashboard.
 ## Installation
 
 #### With HACS
-[![Open in HACS.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=zbigniewmotyka&repository=home-assistant-solplanet&category=integration)
+[![Open in HACS.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=DengineerPC&repository=home-assistant-solplanet-denpc&category=integration)
 
 #### Manual installation
 1. Place `solplanet` directory inside `config/custom_components` directory
